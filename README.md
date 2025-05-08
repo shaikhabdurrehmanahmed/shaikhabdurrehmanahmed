@@ -1,5 +1,6 @@
 <h1 align="center">Here 👋 Shaikh Abdur Rehman Ahmed</h1>
 <h3 align="center">🚀 Hello, tech enthusiasts! 👋 I'm Shaikh Abdur Rehman Ahmed, the enthusiastic instructor and founder of Codage IT Solutions. This repository is a curated collection of knowledge, code, and resources representing my expertise in DevOps, Machine Learning, Artificial Intelligence, Python, Cybersecurity, AWS, and Azure.</h3>
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdurrehman.io.png" alt="Your Image Badge" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhabdurrehmanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhabdurrehmanahmed" /> </p>
 
