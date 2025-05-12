@@ -35,8 +35,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikhabdurrehmanahmed&show_icons=true&locale=en&layout=compact" alt="shaikhabdurrehmanahmed" /></p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4709201" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdurrehman.io.png" alt="Your Image Badge" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikhabdurrehmanahmed&show_icons=true&locale=en" alt="shaikhabdurrehmanahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhabdurrehmanahmed&" alt="shaikhabdurrehmanahmed" /></p>
+
+https://tryhackme.com/abdurrehman.io/badges/first-4-rooms
